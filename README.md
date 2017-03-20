@@ -1,11 +1,12 @@
 # what3words-map-marker
+
 Integrates What3Words with Google Maps.
 
-# Demo
+## Demo
 
 [http://trungk18.github.io/what3words-api-v2-google-map-marker](http://trungk18.github.io/what3words-api-v2-google-map-marker)
 
-# Screenshot
+## Screenshot
 
 ![index.html](http://i.imgur.com/KhJMEI7.png)
 
@@ -18,6 +19,6 @@ Integrates What3Words with Google Maps.
 
 For more information about the *what3words* api, go to [https://github.com/what3words/w3w-javascript-wrapper](https://github.com/what3words/w3w-javascript-wrapper)
 
-# Reference 
+## Reference 
 
 Update from [https://github.com/Logic-gate/What3words-map-marker](https://github.com/Logic-gate/What3words-map-marker) by [Logic-gate](https://github.com/Logic-gate) since It was implemented using what3words API v1.
