@@ -1,5 +1,5 @@
 var options =  {
-    key: 'ZXINDFP2', // Change to your what3words API key
+    key: 'YOUR_API_KEY', // Change to your what3words API key
     lang: 'en' // Change to your default language
 };
 
