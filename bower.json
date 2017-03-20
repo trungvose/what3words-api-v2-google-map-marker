@@ -1,0 +1,18 @@
+{
+  "name": "what3words-api-v2-google-map-marker",
+  "authors": [
+    "trungk18@gmail.com"
+  ],
+  "description": "Draw and move marker on google maps and getting the corresponding location on what3words with their new API v2",
+  "main": "",
+  "keywords": [
+    "what3words",
+    "google",
+    "maps"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "http://trungk18.github.io/what3words-api-v2-google-map-marker",
+  "dependencies": {
+    "w3w-javascript-wrapper": "^3.1.3"
+  }
+}
